@@ -63,6 +63,7 @@ nav button{
     line-height: 70px;
     font-weight: 700;
     max-width: 650px;
+    margin-bottom: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .header-content h3{
@@ -255,7 +256,12 @@ padding: 4px 10px;
     }
     .header-content h1{
         font-size: 30px;
+        line-height: 25px;
     }
+    .header-content h3{
+ margin-bottom: 5px;
+    }
+   
     .email-signup button{
         font-size: 12px;
         padding: 10px 15px;
@@ -266,6 +272,12 @@ padding: 4px 10px;
     .features h2{
         font-size: 30px;
     }
+    .text-col h2{
+    
+    line-height: 10px;
+    
+    margin-bottom: 10px;
+}
     .features p{
         font-size: 14px;
     }
